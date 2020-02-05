@@ -14,7 +14,7 @@
                         <h2 class=" mt-2"> <img src="tgiflogo.webp" alt="Logo" class="rounded-circle" width="60" height="45">TGIF
                         </h2> 
                     </span>
-                    <span class="float-right pt-3 ml-2">
+                    <span class="float-right pt-1 ml-2">
                         <h6><a href="mailto:info@tgif.net">info@tgif.net</a>
                         </h6>
                     </span>
