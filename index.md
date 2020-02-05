@@ -6,13 +6,12 @@
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
             <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
             <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-            <script src="https://unpkg.com/vue/dist/vue.js"></script>
     </head>
     <body class="bg-light">
          <header class="mt-2">    
              <div class="container-fluid">
                    <span class=" float-left">
-                        <h2 class="mr-2 mt-1"> <img src="tgiflogo.webp" alt="Logo" class="rounded-circle" width="60" height="45">TGIF
+                        <h2 class=" mt-2"> <img src="tgiflogo.webp" alt="Logo" class="rounded-circle" width="60" height="45">TGIF
                         </h2> 
                     </span>
                     <span class="float-right pt-3 ml-2">
@@ -22,7 +21,7 @@
                     <nav class="navbar navbar-expand-sm border border-dark bg-info navbar-light">
                        <ul class="navbar-nav">
                            <li class="nav-item">
-                                 <a class="nav-link text-white active" href="index">Home</a>
+                                 <a class="nav-link text-white active " href="index">Home</a>
                            </li>
                                         <!-- Dropdown -->
                            <li class="nav-item dropdown">
