@@ -81,7 +81,7 @@
                                  </div>  
                             </div>
                   </div>
-          </div>
+         
            <!-- Copyright -->
          <br>
          <div class="container-fluid">
