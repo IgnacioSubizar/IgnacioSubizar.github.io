@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
     <head>
             <meta charset="utf-8">
@@ -90,7 +89,7 @@
               <div class="footer-copyright text-center py-3 mb-2 border border-dark bg-info ">© 2016 TGIF | All Rights Reserved
               </div>
             </footer>   
-         </div>
+        
           <!-- Copyright -->
 </body>
 </html>
