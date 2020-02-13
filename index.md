@@ -28,7 +28,7 @@
                     </div>
                 </li>
                 <li class="dropdown2">
-                    <a href="paris.jpg">
+                    <a href="tgif_home.html">
                         <img src="styles/Images/tgiflogo.webp" alt="Live Public Data Display Icon" class="glass">
                     </a>
                     <div class="dropdown-content2">
