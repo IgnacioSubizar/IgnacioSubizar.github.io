@@ -1,11 +1,10 @@
-<!DOCTYPE html>
+
 <html lang="en" >  
     <head>
         <meta charset="utf-8">
         <meta name="description" content="Projects Index" />
         <title>Projects Home</title>        
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-        <meta name=viewport content="width=device-width, initial-scale=1.0, minimum-scale=0.5 maximum-scale=1.0">
         <link href="https://fonts.googleapis.com/css?family=Bangers|Bevan|Monoton&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="styles/style.css" type="text/css">
     </head>
